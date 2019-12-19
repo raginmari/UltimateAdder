@@ -2,6 +2,8 @@ import Foundation
 
 open class Adder {
     
+    public init() {}
+    
     /// Adds the given two numbers.
     ///
     /// - Parameter num1: The first number.
